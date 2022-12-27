@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<!--
-**Shubh-kr/Shubh-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Introduction
+I am an experienced and dedicated ML Engineer with 4+ years of experience identifying efficiencies and problem areas within data streams, while communicating needs for projects. A creative thinker, adept in data products development. Committed to helping companies advance by helping them to develop strategic plans based on ML & AI. Bringing forth a proven track record of analyzing complex data sets and serving as a strong advisor with proven ability to establish and maintain excellent communication and relationships within teams.
+
+#### About Me
+I am currently working at Deloitte as **ML Engineer**.
 
 Here are some ideas to get you started:
 
