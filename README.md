@@ -1,19 +1,50 @@
 ### Hi there 👋
 
-#### Introduction
-I am an experienced and dedicated ML Engineer with 4+ years of experience identifying efficiencies and problem areas within data streams, while communicating needs for projects. A creative thinker, adept in data products development. Committed to helping companies advance by helping them to develop strategic plans based on ML & AI. Bringing forth a proven track record of analyzing complex data sets and serving as a strong advisor with proven ability to establish and maintain excellent communication and relationships within teams.
+#### 🧠 Introduction
+I’m **Shubham Kumar**, a passionate and driven **Senior Machine Learning Engineer** with 6+ years of experience building scalable ML solutions, optimizing data pipelines, and applying AI to real-world business problems — especially in **healthcare, pharma marketing**, and **finance**.
 
-#### About Me
-I am currently working at Deloitte as **ML Engineer**.
+I bring a unique blend of **technical expertise** and **business impact thinking**, from deploying NLP models and recommender systems to building end-to-end data products used across Fortune 500 workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👨‍💻 About Me
+
+- 💼 Currently working as a **Senior Data Scientist at Deloitte**
+- 📍 Based in **Bangalore, India**
+- 🧪 Focused on: NLP, MLOps, model explainability, and business-driven AI
+- ☁️ Working extensively with **Python, AWS, SQL, Dataiku, and Power BI**
+
+---
+
+#### 🚀 What I'm Up To
+
+- 🔭 I’m currently working on:
+  - Patient funnel modeling & conversion optimization
+  - Large-scale healthcare marketing analytics
+  - Scalable model explainability dashboards (SHAP, LIME)
+
+- 🌱 I’m currently learning:
+  - **LLMs for personalized content delivery**
+  - **LangChain, RAG, and vector DBs**
+
+- 👯 I’m looking to collaborate on:
+  - ML projects in **public health**, **fintech**, or **GenAI**
+  - Data science education initiatives or technical writing
+
+- 💬 Ask me about:
+  - ML pipeline optimization, explainability, NLP projects
+  - MLOps in AWS / Dataiku environments
+
+- 📫 How to reach me:
+  - 📧 [shubham.aiverse@gmail.com](mailto:shubham.aiverse@gmail.com)
+  - 💼 [LinkedIn](https://linkedin.com/in/shabam23)
+  - 💻 [Portfolio Website](https://shubh-kr.github.io/shubham-resume/)
+
+- ⚡ Fun fact:
+  - I once built an emotion detection system that classified client sentiment from meeting audio — and yes, it worked (scarily well)!
+
+---
+
+> *“Data is a story waiting to be told — I build the models that make it speak.”* 🎯
+
+---
