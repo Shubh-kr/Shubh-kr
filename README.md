@@ -12,14 +12,14 @@
 
 ## 🧠 About Me
 
-**Senior Data Scientist @ Deloitte** · Bengaluru, India  
+**Senior Data Scientist** · Bengaluru, India  
 Building AI systems that are not just accurate — but *explainable* and *trusted* at enterprise scale.
 
 - 💼 Currently leading ML initiatives in **healthcare**, **pharma marketing**, and **finance**
 - 🔭 Working on: patient funnel modeling, LLM personalization, and model explainability at scale
 - 🌱 Learning: **LangChain**, **RAG pipelines**, **vector databases**, and **LLM fine-tuning**
 - ⚡ Built an emotion detection system from meeting audio — it worked scarily well
-- 📫 Reach me: [shubham.aiverse@gmail.com](mailto:shubham.aiverse@gmail.com)
+- 📫 Reach me: [shubham.mle@gmail.com](mailto:shubham.mle@gmail.com)
 
 ---
 
