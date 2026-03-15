@@ -84,7 +84,7 @@ Building AI systems that are not just accurate — but *explainable* and *truste
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f0e0c?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shabam23)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-B85C2C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shubh-kr.github.io/shubham-resume/)
-[![Resume](https://img.shields.io/badge/Resume-Download-1a4d3a?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://resume.io/r/mfuA7WrjY)
+[![Resume](https://img.shields.io/badge/Resume-Download-1a4d3a?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](ShubhamKumar_Resume_T.pdf)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-3a3830?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham.mle@gmail.com)
 
 </div>
